@@ -27,9 +27,3 @@ A lightweight RESTful API built with [Ktor](https://ktor.io/) in Kotlin. This pr
 - JDK 17+
 - Gradle installed
 
-### Clone & Run
-
-```bash
-git clone https://github.com/your-username/boruto-heroes-api.git
-cd boruto-heroes-api
-./gradlew run
